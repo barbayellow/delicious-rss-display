@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: barbayellow <gregoire.pouget@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+
+#. Text in echo
+#: delicousrssdisplay.php:149
+msgid "Auto Insert delicious bookmark in post content"
+msgstr "Ajouter automatiquement les bookmarks delicious aux billets"
+
+#. Text in echo
+#: delicousrssdisplay.php:126
+msgid "Category or tags"
+msgstr "Catégories ou tags"
+
+#. Text in function
+#: delicousrssdisplay.php:1
+#: delicousrssdisplay.php:100
+msgid "Something got wrong. Delicious is not responding well."
+msgstr "Ca a planté ! Le flux rss de delicious ne répond pas."
+
+#. Text in function
+#: delicousrssdisplay.php:1
+#: delicousrssdisplay.php:100
+msgid "Delicious RSS display"
+msgstr "Delicious RSS display"
+
+#. Text in echo
+#: delicousrssdisplay.php:106
+msgid "Delicious user name"
+msgstr "Nom d'utilisateur delicious"
+
+#. Text in echo
+#: delicousrssdisplay.php:135
+msgid "Number of item per tag"
+msgstr "Nombre d'item par tag"
+
+#. Text in echo
+#: delicousrssdisplay.php:146
+msgid "Other settings"
+msgstr "Autre réglages"
+
+#. Text in function
+#: delicousrssdisplay.php:158
+msgid "See"
+msgstr "Voir"
+
+#. Text in function
+#: delicousrssdisplay.php:158
+msgid "See on delicious :"
+msgstr "Voir sur delicious :"
+
+#. Text in echo
+#: delicousrssdisplay.php:110
+msgid "Title"
+msgstr "Titre"
+
+#. Text in echo
+#: delicousrssdisplay.php:114
+msgid "Title tag"
+msgstr "Tag"
+
+#. Text in function
+#: delicousrssdisplay.php:158
+msgid "my delicious"
+msgstr "mon delicious"
+
