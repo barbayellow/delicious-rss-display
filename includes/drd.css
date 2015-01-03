@@ -1,0 +1,8 @@
+ul.drd_rss_display li.last {
+     list-style-position: outside;
+     list-style-type: none;
+}
+ul.drd_rss_display li.last img {
+	vertical-align: middle
+}
+

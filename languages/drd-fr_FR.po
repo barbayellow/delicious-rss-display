@@ -1,73 +1,92 @@
 msgid ""
 msgstr ""
-"Content-Type: text/plain; charset=utf-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Project-Id-Version: \n"
-"POT-Creation-Date: \n"
+"Project-Id-Version: Delicious RSS Display\n"
+"POT-Creation-Date: 2015-01-03 15:18+0100\n"
 "PO-Revision-Date: \n"
-"Last-Translator: barbayellow <gregoire.pouget@gmail.com>\n"
-"Language-Team: \n"
+"Last-Translator: Grégoire <gregoire@byl.fr>\n"
+"Language-Team: barbayellow <gregoire@byl.fr>\n"
+"Language: French\n"
 "MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural n>1;\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /home/gregoire/public_html/blog.barbayellow.com/wp-"
+"content/plugins/delicious-rss-display\n"
 
-#. Text in echo
-#: delicousrssdisplay.php:149
-msgid "Auto Insert delicious bookmark in post content"
-msgstr "Ajouter automatiquement les bookmarks delicious aux billets"
-
-#. Text in echo
-#: delicousrssdisplay.php:126
-msgid "Category or tags"
-msgstr "Catégories ou tags"
-
-#. Text in function
-#: delicousrssdisplay.php:1
-#: delicousrssdisplay.php:100
-msgid "Something got wrong. Delicious is not responding well."
-msgstr "Ca a planté ! Le flux rss de delicious ne répond pas."
-
-#. Text in function
-#: delicousrssdisplay.php:1
-#: delicousrssdisplay.php:100
+#: /home/gregoire/public_html/blog.barbayellow.com/wp-content/plugins/delicious-rss-display/delicousrssdisplay.php:89
+#: /home/gregoire/public_html/blog.barbayellow.com/wp-content/plugins/delicious-rss-display/delicousrssdisplay.php:95
 msgid "Delicious RSS display"
 msgstr "Delicious RSS display"
 
-#. Text in echo
-#: delicousrssdisplay.php:106
+#: /home/gregoire/public_html/blog.barbayellow.com/wp-content/plugins/delicious-rss-display/delicousrssdisplay.php:102
 msgid "Delicious user name"
 msgstr "Nom d'utilisateur delicious"
 
-#. Text in echo
-#: delicousrssdisplay.php:135
-msgid "Number of item per tag"
-msgstr "Nombre d'item par tag"
-
-#. Text in echo
-#: delicousrssdisplay.php:146
-msgid "Other settings"
-msgstr "Autre réglages"
-
-#. Text in function
-#: delicousrssdisplay.php:158
-msgid "See"
-msgstr "Voir"
-
-#. Text in function
-#: delicousrssdisplay.php:158
-msgid "See on delicious :"
-msgstr "Voir sur delicious :"
-
-#. Text in echo
-#: delicousrssdisplay.php:110
+#: /home/gregoire/public_html/blog.barbayellow.com/wp-content/plugins/delicious-rss-display/delicousrssdisplay.php:106
 msgid "Title"
 msgstr "Titre"
 
-#. Text in echo
-#: delicousrssdisplay.php:114
+#: /home/gregoire/public_html/blog.barbayellow.com/wp-content/plugins/delicious-rss-display/delicousrssdisplay.php:107
+msgid "Elsewhere on the web"
+msgstr "Ailleurs sur le web"
+
+#: /home/gregoire/public_html/blog.barbayellow.com/wp-content/plugins/delicious-rss-display/delicousrssdisplay.php:110
 msgid "Title tag"
 msgstr "Tag"
 
-#. Text in function
-#: delicousrssdisplay.php:158
+#: /home/gregoire/public_html/blog.barbayellow.com/wp-content/plugins/delicious-rss-display/delicousrssdisplay.php:123
+msgid "Category, tags or both"
+msgstr "Catégories, tags ou les deux"
+
+#: /home/gregoire/public_html/blog.barbayellow.com/wp-content/plugins/delicious-rss-display/delicousrssdisplay.php:126
+msgid "Categories"
+msgstr "Catégories"
+
+#: /home/gregoire/public_html/blog.barbayellow.com/wp-content/plugins/delicious-rss-display/delicousrssdisplay.php:127
+msgid "Tags"
+msgstr "Tags"
+
+#: /home/gregoire/public_html/blog.barbayellow.com/wp-content/plugins/delicious-rss-display/delicousrssdisplay.php:128
+msgid "Both"
+msgstr "Les deux"
+
+#: /home/gregoire/public_html/blog.barbayellow.com/wp-content/plugins/delicious-rss-display/delicousrssdisplay.php:133
+msgid "Number of item per tag"
+msgstr "Nombre d'item par tag"
+
+#: /home/gregoire/public_html/blog.barbayellow.com/wp-content/plugins/delicious-rss-display/delicousrssdisplay.php:143
+msgid "Other settings"
+msgstr "Autre réglages"
+
+#: /home/gregoire/public_html/blog.barbayellow.com/wp-content/plugins/delicious-rss-display/delicousrssdisplay.php:146
+msgid "Auto Insert delicious bookmark in post content"
+msgstr "Ajouter les liens delicious automatiquement sous chaque billet"
+
+#: /home/gregoire/public_html/blog.barbayellow.com/wp-content/plugins/delicious-rss-display/delicousrssdisplay.php:151
+msgid "Save Changes"
+msgstr "Enregistrer"
+
+#: /home/gregoire/public_html/blog.barbayellow.com/wp-content/plugins/delicious-rss-display/delicousrssdisplay.php:166
+#, fuzzy
+msgid ""
+"Ahem... Something got wrong. Delicious is not responding to our request."
+msgstr "Ca a planté ! Le flux rss de delicious ne répond pas."
+
+#: /home/gregoire/public_html/blog.barbayellow.com/wp-content/plugins/delicious-rss-display/delicousrssdisplay.php:280
+msgid "See on my delicious :"
+msgstr "Voir sur mon delicious :"
+
+#: /home/gregoire/public_html/blog.barbayellow.com/wp-content/plugins/delicious-rss-display/delicousrssdisplay.php:290
+msgid "See"
+msgstr "Voir"
+
+#: /home/gregoire/public_html/blog.barbayellow.com/wp-content/plugins/delicious-rss-display/delicousrssdisplay.php:290
 msgid "my delicious"
 msgstr "mon delicious"
 
+#~ msgid "Tag"
+#~ msgstr "Tag"
